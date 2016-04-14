@@ -6,5 +6,5 @@ a more comprehensive resource.
 I do not currently plan to accept contributions until I have filled out the
 tutorial to my satisfaction.
 
-Written with help from kevincp@google.com
+Written with help from Kevin Peterson.
 
